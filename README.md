@@ -18,6 +18,8 @@ Purple is Python stuff
 
 Blue are path beginnings
 
+Gray are copies of some blocks in order to have easier routing across the map
+
 ## Map
 
 ![](swe_backend.drawio.svg)
