@@ -16,7 +16,9 @@ Yellow is backend stuff
 
 Purple is Python stuff
 
-Blue are path beginnings
+Light Blue are path beginnings
+
+Blue is DevOps stuff
 
 Gray are copies of some blocks in order to have easier routing across the map
 
