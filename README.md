@@ -10,17 +10,7 @@ Last edited by draw.io desktop version https://github.com/jgraph/drawio-desktop/
 
 ## Legend
 
-Green is generic SWE knowledge
-
-Yellow is backend stuff
-
-Purple is Python stuff
-
-Light Blue are path beginnings
-
-Blue is DevOps stuff
-
-Gray are copies of some blocks in order to have easier routing across the map
+Map legent on the left bottom corner
 
 ## Map
 
